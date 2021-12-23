@@ -4,14 +4,15 @@ title: 'Programming Workshops'
 
 ## Summary
 
-This year we were gifted with a number of interested and dedicated programming recruits. We knew that lots of time had to be spent on training before the season started to facilitate a collaborative programming environment. Although we started trying to teach from the front of the classroom, we quickly found that the more advanced content (GitHub/Version Control and WPILIB) was better taught by providing members with time, support, and guided resources to learn at their own pace. By Workshop 3, we reduced programming workshop attendance from an unmanageable 30 to a much more palatable 10, significantly increased the number of workshops we could have by running programming workshops concurrently with other workshops, and had successfully transitioned to a self paced learning model.
+This year we were gifted with a number of interested and dedicated programming recruits. We knew that lots of time had to be spent on training before the season started to facilitate a collaborative programming environment. Although we started trying to teach from the front of the classroom, we quickly found that the more advanced content (GitHub/Version Control and WPILIB) was better taught by providing members with time, support, and guided resources to learn at their own pace. By Workshop 3, we reduced programming workshop attendance from an unmanageable 30 to a much more palatable 10 and significantly increased the number of programming workshops we could have by running programming workshops concurrently with other workshops, and had successfully transitioned to a self paced learning model. By Mock Season, team leadership had decided to cap the programming subteam to 5 individuals (including leadership) to reduce strain on programmign leadership and because they felt short on membership for other more resource intensive subteams. 
 
 A typical (post workshop 2) programming workshop started by "stealing" Ms. Baird's laptop cart (which we had been using since the second programming meeting) and letting members work through the GitHub and Spectrum resources with the Programming Captain and Deputy Programming Captain fielding questions, and providing enrichment and general guidance as needed. 
 
 ## Resources Used
 
 [Spectrum Training Materials](https://training.spectrum3847.org) <br>
-[Git and GitHub first-timers](https://lab.github.com/lmachens/git-and-github-first-timers)
+[Git and GitHub first-timers](https://lab.github.com/lmachens/git-and-github-first-timers) <br>
+[Nevin Morrison's WPILib Java Command Based Playlist](https://www.youtube.com/watch?v=1794CxHQoQg&list=PLYwJIUT_B-n612Gqmfsq1ukYLa6WKgonc)
 
 ## First Workshop: Intro to Java
 
@@ -68,3 +69,17 @@ This seemed to cater to the needs of most members and didn't tie up all of my ti
 #### What didn't work
 
 Some members were still not incredibly motivated to work through the content. Some sort of prize or announcement about how subteam membership would be determined might have helped.
+
+## Programming Mock Season: Programming the 2020/2021 Robot
+
+#### What we did
+
+For the mock programming season, we provided members with [Nevin Morrison's WPILib Java Command Based Playlist](https://www.youtube.com/watch?v=1794CxHQoQg&list=PLYwJIUT_B-n612Gqmfsq1ukYLa6WKgonc) and tasked them with creating their own code to run the 2020/2021 season competition robot. 
+
+#### What worked
+
+All 3 new members had driving robot code by the end of the mock season.
+
+#### What didn't work
+
+There wasn't enough emphasis placed on the "you're supposed to program the actual robot" so for most of the mock season the members tested their code in the WPILib simulator (a useful skill to have, but one that had already been practiced). 
